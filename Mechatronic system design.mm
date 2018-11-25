@@ -195,9 +195,9 @@
 <font NAME="Arial" SIZE="20"/>
 <node TEXT="regions where each element (spring,damper and mass) are dominant" ID="ID_1650716196" CREATED="1542577339699" MODIFIED="1542641989969">
 <font NAME="Arial"/>
-<node TEXT="" ID="ID_606859729" CREATED="1542615946879" MODIFIED="1542641989970">
-<hook URI="Mechatronic%20system%20design_files/figure%203.7.jpg" SIZE="0.17333148" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_606859729" CREATED="1542615946879" MODIFIED="1543183559260">
 <font NAME="Arial"/>
+<hook URI="figure%203.7.jpg" SIZE="0.15612802" NAME="ExternalObject"/>
 <node TEXT="intersection between stiffness-line and mass-line" ID="ID_793090047" CREATED="1542616104431" MODIFIED="1542641989970">
 <font NAME="Arial"/>
 <node TEXT="called roll-off frequency" ID="ID_1034800558" CREATED="1542616125421" MODIFIED="1542641989970">
@@ -220,9 +220,9 @@
 <font NAME="Arial"/>
 <node TEXT="example" ID="ID_1841302407" CREATED="1542641423191" MODIFIED="1542641989976">
 <font NAME="Arial"/>
-<node TEXT="" ID="ID_844690588" CREATED="1542641428831" MODIFIED="1542641989980">
-<hook URI="Afbeeldingen/transmissibility%20example.jpg" SIZE="0.36474165" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_844690588" CREATED="1542641428831" MODIFIED="1543183587331">
 <font NAME="Arial"/>
+<hook URI="transmissibility%20example.jpg" SIZE="0.36474165" NAME="ExternalObject"/>
 <node TEXT="using a FBD and laplace the transmissibility is" ID="ID_417763697" CREATED="1542641467614" MODIFIED="1542641989980">
 <font NAME="Arial"/>
 <node TEXT="\latex $\frac{x_m(s)}{x_s(s)} = \frac{2\zeta\frac{s}{\omega_0} +1}{\frac{s^2}{\omega_0^2} + 2\zeta\frac{s}{\omega_0}+1}$" ID="ID_1130713341" CREATED="1542641503649" MODIFIED="1542641989939">
@@ -339,9 +339,9 @@
 <node TEXT="virtual spring" ID="ID_132901531" CREATED="1542561562377" MODIFIED="1542641990000">
 <font NAME="Arial"/>
 </node>
-<node TEXT="" ID="ID_728009370" CREATED="1542616159837" MODIFIED="1542641990000">
-<hook URI="Mechatronic%20system%20design_files/proportional%20control.jpg" SIZE="0.2320188" NAME="ExternalObject"/>
+<node TEXT="" ID="ID_728009370" CREATED="1542616159837" MODIFIED="1543183609265">
 <font NAME="Arial"/>
+<hook URI="proportional%20control.jpg" SIZE="0.18512805" NAME="ExternalObject"/>
 <node TEXT="\latex The actuator force $F_a  = G_t\delta_r - G_mG_aG_pG_c\delta_r$" ID="ID_1607576402" CREATED="1542562419164" MODIFIED="1542642121929">
 <font NAME="Arial" SIZE="16"/>
 <node TEXT="note it is counterclockwise" ID="ID_633339707" CREATED="1542562712667" MODIFIED="1542641990000">
